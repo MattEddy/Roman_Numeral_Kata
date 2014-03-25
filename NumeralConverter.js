@@ -3,7 +3,7 @@ function numeralConverter()	{
 }
 
 numeralConverter.prototype.convert = function()	{
-	console.log("converting")
+	return "I";
 }
 
 module.exports = numeralConverter
